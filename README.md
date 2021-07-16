@@ -1,2 +1,3 @@
 # Sudoku-game
-Sudoku game created using  data from "sugoku" website and solved using JavaScript.
+This project is based on a sudoku game in which HTML and CSS are used to create the layout of the website. The site "sugoku" is involved in generating new puzzles, another side JavaScript backtracking is used to solve the whole puzzle at once.
+You can test this website here-->
